@@ -10,7 +10,7 @@ The visual was made using R, [ggplot2](https://ggplot2.tidyverse.org/), and [GIM
  
 R version 3.5.1 (2018-07-02) -- "Feather Spray"
 
-GIMP (if you want to recreate the image exactly)
+GIMP, or any other image editing software if you want to recreate the image exactly
 
 ##### R Packages 
 * ggplot2

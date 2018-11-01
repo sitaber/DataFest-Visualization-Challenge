@@ -15,3 +15,5 @@ GIMP (if you want to recreate the image exactly)
 ##### R Packages 
 * ggplot2
 * maps
+
+![](https://github.com/sitaber/DataFest-Visualization-Challenge/blob/master/datafestviz.png)

@@ -22,7 +22,7 @@ To get the coordinates used to make the maps, use [map_data()](https://ggplot2.t
 CA <- map_data('state', region = "ca")
 CA_county <- map_data('county', region = 'ca')
 ```
-To create a map of California, with counties out, follow this example code
+To create a map of California, with counties outlined, follow this example code
 ```
 ggplot() +
   geom_polygon(data = CA, aes(x=long, y=lat), group = group, fill = "white", color = "black") + 

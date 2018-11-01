@@ -37,4 +37,6 @@ After saving the respective images, the rest is accomplished using GIMP. Slice a
 
 
 ## Visualization
+The image is what the outline of the three states would look like. Some intresting (I think) information about each 'state' is displayed in the four differnt parts.
+
 ![](https://github.com/sitaber/DataFest-Visualization-Challenge/blob/master/datafestviz.png)
